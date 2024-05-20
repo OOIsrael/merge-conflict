@@ -9,6 +9,10 @@ Initial Security()
 {
  //Sample Code
 	feature1SecurityPatch(){
+		//patch method...	
+	}
+
+ 	feature2SecurityPatch(){
 		//patch method...
 	}
 }
