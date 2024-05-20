@@ -8,6 +8,9 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
+	feature1SecurityPatch(){
+		//patch method...
+	}
 }
 
 
